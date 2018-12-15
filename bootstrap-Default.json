@@ -1,0 +1,1 @@
+{"SSID":"MY_WIFI_SSID","wpaKey":"MY_SSID_SECRET_KEY","mqtt":{"server":"my.mqttserver.com","port":1883},"firmware":{"url":"http://my.webserver.com:80/folder/$DEVICENAME$.json"}}
