@@ -33,7 +33,7 @@
 #include <ESP8266HTTPUpdateServer.h>
 
 
-const int firmwareVersion = X;
+const int firmwareVersion = 1;
 
 
 enum enumLEDMode {
